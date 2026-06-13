@@ -1,3 +1,11 @@
+/*
+Problem: Binary Search
+Platform: DSA Practice
+Approach: Iterative Binary Search
+Time Complexity: O(log n)
+Space Complexity: O(1)
+*/
+
 #include <iostream>
 using namespace std;
 
